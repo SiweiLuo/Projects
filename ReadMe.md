@@ -10,7 +10,11 @@ that yields the unique fixed-point. A gradient-free optimization method as an ap
 contraction mapping is proposed to achieve global minimum convergence. The optimization method
 is robust to local minima and initial point position.
 
+<a href="https://BorealBlizzard.github.io/page1.html/">Page 2</a>
 
+<a href="https://arxiv.org/abs/1807.04129">Page 2</a>
+
+https://arxiv.org/abs/1807.04129
 https://arxiv.org/abs/1807.04129
 
 https://pdfs.semanticscholar.org/8a1b/475a101cb71c3e940ad1535025f948c8a716.pdf
