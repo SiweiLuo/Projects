@@ -17,6 +17,10 @@ Find the global minimum point of 3D Sphere function https://en.wikipedia.org/wik
 
 <a href="https://en.wikipedia.org/wiki/Test_functions_for_optimization"> test functions for optimization</a>
 
+## https://en.wikipedia.org/wiki/Sturm%E2%80%93Liouville_theory
+
+## <a href="https://en.wikipedia.org/wiki/Sturm%E2%80%93Liouville_theory"> Sturm-Liouville equation</a> for two-body system
+
 ## Sturm-Liouville equation for two-body system 
 
 We introduce a Sturm-Liouville equation derived from Newton’s law to describe the dynamical system of the two-body system under the influence of torque. In the paper, we present conic sections and the Bohr model are solutions of the equation. Moreover, the logarithm spiral can be the solution as well and the complex solutions are able to form the basis of Hilbert space.
