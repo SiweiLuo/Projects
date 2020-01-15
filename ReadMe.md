@@ -2,7 +2,6 @@
 # Ni hao 
 
 
-
 ## Contraction mapping and non-convex optimization
 
 The weak contraction mapping is a self mapping that the range is always a subset of the domain,
