@@ -12,7 +12,7 @@ is robust to local minima and initial point position.
 
 <a href="https://BorealBlizzard.github.io/page1.html/">Page 2</a>
 
-<a href="https://arxiv.org/abs/1807.04129">Page 2</a>
+<a href="https://arxiv.org/abs/1807.04129">arxiv:1807.04129</a>
 
 https://arxiv.org/abs/1807.04129
 https://arxiv.org/abs/1807.04129
